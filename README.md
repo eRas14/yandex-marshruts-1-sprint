@@ -3,7 +3,7 @@
 
 ## Документация
 
-- [Чек-лист мобильного приложения](https://docs.google.com/spreadsheets/d/1G13y--eVszg7PNLkyCsvd3s6HlbmkvUSOFcalwsBZn0/edit?gid=483862348#gid=483862348)
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1G13y--eVszg7PNLkyCsvd3s6HlbmkvUSOFcalwsBZn0/edit?gid=483862348#gid=483862348)
 
 ## Объекты тестирования
 
